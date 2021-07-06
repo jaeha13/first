@@ -74,6 +74,8 @@ Untracked files:
 
 ```
 
+![222](TIL/imges_file/222.jpg)
+
 ### commit
 
 ```bash
@@ -110,3 +112,4 @@ $ git log -2 # 최근 2개
 $ git log -2 --oneline # 한 줄로 최근 2개
 ```
 
+![111](TIL/imges_file/111.jpg)
